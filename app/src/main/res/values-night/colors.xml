@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palet aplikasi (mode gelap) -->
+    <color name="brand_primary">#4DB6AC</color>
+    <color name="brand_on_primary">#00201C</color>
+    <color name="bg_main">#121212</color>
+    <color name="card_bg">#1E1E1E</color>
+    <color name="expense_red">#EF9A9A</color>
+    <color name="avatar_bg">#004D40</color>
+    <color name="avatar_text">#80CBC4</color>
+
+    <color name="summary_bg">#00695C</color>
+</resources>
